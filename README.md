@@ -3,7 +3,7 @@ A fun game that gives you an unfinished dad joke and with another version of the
 
 ## You will need:
 * Python 3.6+
-* GoogleTrans python library (enter `pip3 install translators` into your terminal)
+* Translators python library (enter `pip3 install translators` into your terminal)
 
 
 ## Special thanks to:
